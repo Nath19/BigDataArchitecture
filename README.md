@@ -82,7 +82,7 @@ Spark runs on Hadoop, Mesos, standalone or in the cloud. It can access various d
 With regard to the real time and batch layers, it has previously been seen that Spark was able to perform both types of processing. In addition, thanks to the Azure HDInsight PaaS tool, we are well able to deploy a Spark cluster.
 Next, for storage and service layer, we previously identified that a nonrelational database system could be used. Thus, the Azure Cosmos DB brick lends itself well to the situation.
 
- 
+
 
 
 ## Déploiement Azure Cosmos DB
@@ -97,9 +97,3 @@ Next, for storage and service layer, we previously identified that a nonrelation
 
 
 ## Interconnexion Cosmos DB - Spark
-
-Mettre screen de gaya 
-
- 
-
- 

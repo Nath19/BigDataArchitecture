@@ -75,7 +75,7 @@ Combines SQL, streaming and complex analysis.
 Spark runs on Hadoop, Mesos, standalone or in the cloud. It can access various data sources, including HDFS, Cassandra, HBase and S3.
 - Open Source
 
-# Architecture Lambda dans Azure
+# Architecture Lambda in Azure
 
 ![architecture](architecture.png)
 
@@ -83,17 +83,3 @@ With regard to the real time and batch layers, it has previously been seen that 
 Next, for storage and service layer, we previously identified that a nonrelational database system could be used. Thus, the Azure Cosmos DB brick lends itself well to the situation.
 
 
-
-
-## Déploiement Azure Cosmos DB
-
-![twitterdb](twitterdb.png)
-
-
-
-## Déploiement HDInsight Spark
-
-![hdinsi](hdinsi.png)
-
-
-## Interconnexion Cosmos DB - Spark
